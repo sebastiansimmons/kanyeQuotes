@@ -2,6 +2,7 @@
 
 https://kanyequotes.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 A little website that displays a Kanye West quote using the [kanye.rest](https://kanye.rest/) API.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
